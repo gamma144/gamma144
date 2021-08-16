@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gamma144
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+- 📫 How to reach me gamma.0686@gmail.com
